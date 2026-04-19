@@ -60,3 +60,11 @@ Deliverables
 3.5. Test Summary Report
 
 3.6. Presentation Slides
+
+## 🖼️ Screenshots
+
+![app_view1](Screen1.jpeg)
+
+![app_view2](Screen2.jpeg)
+
+![app_view3](assets/cover/view3.png)
