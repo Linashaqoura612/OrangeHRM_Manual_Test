@@ -67,4 +67,10 @@ Deliverables
 
 ![app_view2](Screen2.jpeg)
 
-![app_view3](assets/cover/view3.png)
+![app_view3](Screen3.jpeg)
+
+![app_view4](Screen4.jpeg)
+
+![app_view5](Screen5.jpeg)
+
+![app_view6](Screen6.jpeg)
